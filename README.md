@@ -15,7 +15,7 @@ body {
 ```
 - CodePen quickadd adds Bootstrap via
 
-```https://maxcdn.bootstrapcnd.com/bootstrap/3.3.5/css/bootstrap.min.css```
+```https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css```
 - Open links on a new tab via:
 ```
 <a href="http://something" target="_blank"></a>
